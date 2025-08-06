@@ -4,7 +4,7 @@ This repository contains various basic circuit simulations created using [Tinker
 
 ## 🔧 Projects Included
 
-### 1. Full-Wave Rectifier
+### 1. wave connection
 ![Full Wave](FULLWAVE CIRCUIT CONNECTION.png)
 - Simulates a full-wave rectifier using diodes.
 - Measures AC to DC conversion using virtual oscilloscope.
