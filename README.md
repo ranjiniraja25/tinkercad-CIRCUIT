@@ -5,17 +5,9 @@ This repository contains various basic circuit simulations created using [Tinker
 ## 🔧 Projects Included
 
 ### 1. Full-Wave Rectifier
-![Full Wave](full%20wave.png)
+![Full Wave](FULLWAVE CIRCUIT CONNECTION.png)
 - Simulates a full-wave rectifier using diodes.
 - Measures AC to DC conversion using virtual oscilloscope.
-
-### 2. Half-Wave Rectifier
-![Half Wave](half%20wave.png)
-- Demonstrates half-wave rectification using a single diode.
-
-### 3. LED Connection Using Battery
-![LED Battery](using%20battery%20led%20connection.png)
-- Simple LED setup using a coin cell or AA battery with resistor.
 
 ## 🛠️ Tools Used
 - Tinkercad Circuits
